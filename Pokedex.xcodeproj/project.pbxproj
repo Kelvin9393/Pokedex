@@ -22,6 +22,7 @@
 		466448BD1F85030A00E6AAEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		466448C01F85030A00E6AAEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		466448C21F85030A00E6AAEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		466448C81F85171900E6AAEE /* pokemon.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				466448B81F85030A00E6AAEE /* ViewController.swift */,
 				466448BA1F85030A00E6AAEE /* Main.storyboard */,
 				466448BD1F85030A00E6AAEE /* Assets.xcassets */,
+				466448C81F85171900E6AAEE /* pokemon.csv */,
 				466448BF1F85030A00E6AAEE /* LaunchScreen.storyboard */,
 				466448C21F85030A00E6AAEE /* Info.plist */,
 			);
